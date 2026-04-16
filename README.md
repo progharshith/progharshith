@@ -40,6 +40,8 @@ From AI/ML tools and computer vision systems to web apps, automation bots, and g
 * VS Code
 * Jupyter Notebook
 * Figma (basic UI/UX)
+* Prompt Engineering
+* Video editing
 
 ---
 
@@ -56,6 +58,7 @@ From AI/ML tools and computer vision systems to web apps, automation bots, and g
 * Full-stack web apps
 * Polishing and open-sourcing older projects
 * Improving UI/UX alongside backend logic
+* Open source contributions
 
 ---
 
