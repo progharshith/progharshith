@@ -119,10 +119,10 @@ volunteer  :  Social Outreach — education & inclusivity
 
 <div align="center">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=progharshith.progharshith&left_text=visitors&left_color=%230d0d0d&right_color=%23A78BFA)
+[![footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1025,100:0d0d0d&height=100&section=footer&text=build+fast.+break+things.+learn+faster.&fontSize=16&fontColor=666666&animation=fadeIn)](https://github.com/progharshith)
 
 <br>
 
-[![footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1025,100:0d0d0d&height=100&section=footer&text=build+fast.+break+things.+learn+faster.&fontSize=16&fontColor=666666&animation=fadeIn)](https://github.com/progharshith)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=progharshith.progharshith&left_text=%20&style=flat-square&left_color=%230d0d0d&right_color=%231a1025" alt="stats" />
 
 </div>
