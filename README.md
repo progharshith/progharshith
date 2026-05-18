@@ -37,7 +37,7 @@ volunteer  :  Social Outreach — education & inclusivity
 | project | what it does |
 |---|---|
 | [⌨️ **Type Siege**](https://github.com/progharshith/type-siege) | wave-based typing defense game — destroy enemies by typing words before they reach your core. built with React 19 + TypeScript + Vite. tracks WPM, combos, streaks. |
-| [🌀 **Wuhdul**](https://github.com/progharshith/wuhdul) | *(check the repo)* |
+| [🌀 **Wuhdul**](https://github.com/progharshith/wuhdul) | A fast, responsive Wordle-inspired game built using React, TypeScript, Tailwind CSS and Vite. |
 
 > i also build computer vision tools, automation scripts, and whatever idea keeps me up at night
 
