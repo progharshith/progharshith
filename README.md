@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=CSE+student+%40+VCE+Mysuru+%E2%80%9929;AI+%2F+ML+%7C+Computer+Vision+%7C+Web;ex-intern+%40+Excelsoft+Technologies;typing+game+dev+%F0%9F%8E%AE+%7C+film+nerd+%F0%9F%8E%AC;building+slightly+crazy+things+since+day+one)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=CSE+student+%40+VVCE+Mysuru+%E2%80%9929;AI+%2F+ML+%7C+Computer+Vision+%7C+Web;ex-intern+%40+Excelsoft+Technologies;typing+game+dev+%F0%9F%8E%AE+%7C+film+nerd+%F0%9F%8E%AC;building+slightly+crazy+things+since+day+one)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@
 name       :  Harshith Gupta
 handle     :  progharshith
 location   :  Mysuru, Karnataka 🇮🇳
-studying   :  B.E. Computer Science, VCE '29
+studying   :  B.E. Computer Science, VVCE '29
 past life  :  AI/ML Python Intern @ Excelsoft Technologies (EdTech)
 hobbies    :  films · art · media · making things that sometimes work
 volunteer  :  Social Outreach — education & inclusivity
