@@ -118,8 +118,11 @@ volunteer  :  Social Outreach — education & inclusivity
 ---
 
 <div align="center">
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=progharshith.progharshith&left_text=vibe_check&left_color=%230d0d0d&right_color=%23A78BFA)
+
 <br>
+
 [![footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1025,100:0d0d0d&height=100&section=footer&text=build+fast.+break+things.+learn+faster.&fontSize=16&fontColor=666666&animation=fadeIn)](https://github.com/progharshith)
 
 </div>
