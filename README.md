@@ -119,7 +119,7 @@ volunteer  :  Social Outreach — education & inclusivity
 
 <div align="center">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=progharshith.progharshith&left_text=vibe_check&left_color=%230d0d0d&right_color=%23A78BFA)
+![](https://visitor-badge.laobi.icu/badge?page_id=progharshith.progharshith&left_text=visitors&left_color=%230d0d0d&right_color=%23A78BFA)
 
 <br>
 
