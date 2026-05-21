@@ -103,6 +103,17 @@ volunteer  :  Social Outreach — education & inclusivity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=progharshith&bg_color=0d0d0d&color=A78BFA&line=A78BFA&point=c4b5fd&area=true&area_color=A78BFA&hide_border=true&v=2)](https://github-readme-activity-graph.vercel.app)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/progharshith/progharshith/output/snake-dark.svg"
+  />
+  <img
+    alt="Contribution snake"
+    src="https://raw.githubusercontent.com/progharshith/progharshith/output/snake.svg"
+  />
+</picture>
+
 </div>
 
 ---
