@@ -1,3 +1,5 @@
+# README.md
+
 <!-- header banner -->
 <div align="center">
 
@@ -90,19 +92,18 @@ volunteer  :  Social Outreach — education & inclusivity
 🧠  Asst. Director of HR @ student mental health non-profit, New Delhi
 🤖  AI/ML Python Intern @ Excelsoft Technologies (EdTech)
 ```
+
 ---
 
 ## `> git log --oneline`
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.beier.ch/?user=progharshith&background=0d0d0d&hide_border=true&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=666666)](https://github.com/git/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=progharshith&background=0d0d0d&hide_border=true&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=666666)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=progharshith&bg_color=0d0d0d&color=A78BFA&line=A78BFA&point=c4b5fd&area=true&area_color=A78BFA&hide_border=true&v=2)](https://github-readme-activity-graph.vercel.app)
 
 </div>
-
----
 
 ---
 
