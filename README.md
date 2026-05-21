@@ -97,11 +97,13 @@ volunteer  :  Social Outreach — education & inclusivity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=progharshith&theme=transparent&hide_border=true&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=666666&v=1)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=progharshith&theme=dark&background=0d0d0d&hide_border=true&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=ffffff&dates=666666)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=progharshith&bg_color=0d0d0d&color=A78BFA&line=A78BFA&point=c4b5fd&area=true&area_color=A78BFA&hide_border=true&v=2)](https://github-readme-activity-graph.vercel.app)
 
 </div>
+
+---
 
 ---
 
