@@ -25,7 +25,7 @@ handle     :  progharshith
 location   :  Mysuru, Karnataka 🇮🇳
 studying   :  B.E. Computer Science, VVCE '29
 past life  :  AI/ML Python Intern @ Excelsoft Technologies (EdTech)
-hobbies    :  films · art · media · making things that sometimes work
+hobbies    :  films · art · media · making things that work
 volunteer  :  Social Outreach — education & inclusivity
              Asst. Director of HR, student mental health non-profit (New Delhi)
 ```
