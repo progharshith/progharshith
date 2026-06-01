@@ -131,9 +131,8 @@ volunteer  :  Social Outreach — education & inclusivity
 ---
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bg_color=0d0d0d&borderColor=1a1025&color=A78BFA&q_color=ffffff" alt="Dad Joke" />
+  <img src="https://github-readme-jokes.onrender.com/joke?theme=dark&bg_color=0d0d0d&borderColor=1a1025&color=A78BFA&q_color=ffffff" alt="Developer Joke" />
 </div>
-
 <div align="center">
 
 [![footer](https://capsule-render.vercel.app/api?type=soft&color=0:1a1025,100:0d0d0d&height=100&section=footer&text=build+fast.+break+things.+learn+faster.&fontSize=16&fontColor=666666&animation=fadeIn)](https://github.com/progharshith)
