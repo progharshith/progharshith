@@ -129,6 +129,11 @@ volunteer  :  Social Outreach — education & inclusivity
 </div>
 
 ---
+<div align="center">
+
+[![Dad Joke](https://readme-jokes.vercel.app/api?theme=radical&bg_color=0d0d0d&textColor=A78BFA&qColor=c4b5fd&hideBorder=true)](https://github.com/progharshith)
+
+</div>
 
 <div align="center">
 
