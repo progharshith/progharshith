@@ -1,19 +1,20 @@
-name: Generate Snake
+name: Profile Automation
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *" # 11:30 PM IST
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -23,8 +24,21 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit generated files
+      - name: Refresh profile metadata
+        run: |
+          mkdir -p .github/data
+
+          cat > .github/data/profile-metadata.json << EOF
+          {
+            "last_updated": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "profile": "progharshith"
+          }
+          EOF
+
+      - name: Commit updates
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist"
-          message: "Generate contribution snake"
+          add: |
+            dist
+            .github/data/profile-metadata.json
+          message: "chore: refresh profile assets"
